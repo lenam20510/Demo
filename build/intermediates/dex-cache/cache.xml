@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\1c4ba118396d893714eb4593ab8dc33900b28820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_1dbe6bd67f5de6447b0a38e3fb1a3b8716da2922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_518a469cd82ce3aa8ab671eabc9d2224e84da9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\202974c278b6db91ff05a8963e0535ff4c7d4351\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_b0296ff546d8059ce9760f03b2dfad9068302013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\eab58d9caaab16d66106613dbd4393a5dc07cb13\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_a18f9231be36633afd982b9cccd580d2fd9d5f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\6563e98f098088dd697e4715dc1f3ad444b1bdbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_d7336b44b1617b8397ec915bf5034a9d7318a992.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\2764a5cb580d79dec3a1c3c5bb80b2e1de54843b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_f959d62e350f8fd48c04c84d411c05b3c04ba933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\ca544bcd14dc235109db07b19a6b1bb9e0a1fe3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_d32fe50b0a85afc24f3b024b320b1f25225f1be7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\8c692b7606b9d99e828ad5dcbadf2f8097c5c63c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_b128dcb635f71006a0ee22ecf62268f1ec53874c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\eebc9543a1ebe25f7517703697c8249aa4fb83c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_f83485b44a87e01e76ae9037f12d37644a446905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\3f0e05ad72ea5a8b029ccf801c8e2206312de998\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_b256ef13385959a66731841b45e0105c9bbcd51c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d23c4391907db85dcc92736ee567a118d68bcf2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenam\.android\build-cache\de56bfb71d4fcf11a2aa71e91d9bb4d968665393\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\Android\Projects\Demo\app\build\intermediates\pre-dexed\debug\classes_ea238f2d34f4cfa79a034f0cecdfa1a4f5bc7534.jar" />
+    </item>
+
+</items>
